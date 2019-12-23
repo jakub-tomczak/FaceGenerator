@@ -2,3 +2,6 @@ matplotlib
 tensorflow-gpu
 tensorflow-datasets
 numpy
+Pillow
+tqdm
+tensorboard
