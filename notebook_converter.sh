@@ -5,4 +5,3 @@ if [ -d env ]; then
     source ./env/Scripts/activate
 fi
 jupyter nbconvert --to python "./$filename.ipynb"
-python3 "./$filename.py"
