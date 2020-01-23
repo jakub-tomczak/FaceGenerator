@@ -1,0 +1,2 @@
+embedding/embedding_10attr_changed_net_structure.json filter=lfs diff=lfs merge=lfs -text
+embedding/embedding_10attr_changed_net_weights.h5 filter=lfs diff=lfs merge=lfs -text
